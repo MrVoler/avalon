@@ -1,8 +1,8 @@
-#Avalon's api
+# Avalon's api
 
 It's my first try to write nodeJS,I would appreciate your suggestion.：）
 
-##game's rule
+## game's rule
 
 [avalon中文攻略](https://www.douban.com/note/523559795/)
 
